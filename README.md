@@ -16,8 +16,8 @@ STEPS:
 NOTE: "nodemon" can be used in the dependency to auto start instead of stopping and starting again after any modifications.
   
   Save the code and start the server.
-  In the browser or Postman, use http://localhost:3000/ and provide the correspoding objects and properties to access the categories or products
-  Use the Postman to modify the category or product data like creating/updating/deleting
+  In the browser or Postman, use http://localhost:3000/ and provide the correspoding objects and properties to access the categories or products.
+  Use the Postman to modify the category or product data like creating/updating/deleting.
   
   OUTCOME:
     The code can implement the  following actions,
