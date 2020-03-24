@@ -8,8 +8,9 @@ REQUIREMENTS:
   3. Postman - browser extension
  
 STEPS:
-  I have created the two files named index.js and package.json in the VS code.
+  I have created the two files named index.js(contians the api code) and package.json(contians the dependencies) in the VS code.
 	On the terminal,
+	
 		# npm install	// downloads all the dependencies
 		# npm start 	// to start the server
 
