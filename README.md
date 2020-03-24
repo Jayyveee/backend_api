@@ -21,7 +21,8 @@ NOTE: "nodemon" can be used in the dependency to auto start instead of stopping 
   
   OUTCOME:
     The code can implement the  following actions,
-          ● Getting the list of all categories
+ 
+          ● Getting the list of all categories	  
           ● Getting the list of products of the concrete category
           ● Create/update/delete of category
           ● Create/update/delete of product
